@@ -51,14 +51,9 @@ const sidebarItem: menu[] = [
   },
   { header: 'Others' },
   {
-    title: 'Quizzes',
-    icon: 'custom-colorpick',
-    to: '/quizzes'
-  },
-  {
-    title: 'Documentation',
+    title: 'Telegram Support',
     icon: 'custom-support',
-    to: 'https://phoenixcoded.gitbook.io/able-pro/v/vue/',
+    to: 'https://t.me/tez_chop',
     type: 'external'
   }
 ];
